@@ -1,0 +1,11 @@
+C:\Users\Genghis Khan\Desktop\New folder\OOP p\bin\Debug\OOP p.exe.config
+C:\Users\Genghis Khan\Desktop\New folder\OOP p\bin\Debug\OOP p.exe
+C:\Users\Genghis Khan\Desktop\New folder\OOP p\bin\Debug\OOP p.pdb
+C:\Users\Genghis Khan\Desktop\New folder\OOP p\obj\Debug\OOP p.csprojAssemblyReference.cache
+C:\Users\Genghis Khan\Desktop\New folder\OOP p\obj\Debug\OOP_p.frmPrijava.resources
+C:\Users\Genghis Khan\Desktop\New folder\OOP p\obj\Debug\OOP_p.Properties.Resources.resources
+C:\Users\Genghis Khan\Desktop\New folder\OOP p\obj\Debug\OOP p.csproj.GenerateResource.cache
+C:\Users\Genghis Khan\Desktop\New folder\OOP p\obj\Debug\OOP p.csproj.CoreCompileInputs.cache
+C:\Users\Genghis Khan\Desktop\New folder\OOP p\obj\Debug\OOP p.exe
+C:\Users\Genghis Khan\Desktop\New folder\OOP p\obj\Debug\OOP p.pdb
+C:\Users\Genghis Khan\Desktop\New folder\OOP p\obj\Debug\OOP_p.Radnja.resources
