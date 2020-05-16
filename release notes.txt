@@ -1,2 +1,6 @@
 v0.1 Klasa Sahovska tabla, Figura i Igra dodate
-v0.2 Graficka implementacija sahovske table 
+v0.2 Graficka implementacija sahovske table
+
+v0.3 Dodate klase Igrac, Igra, Potez, napravljena probna baza podataka 
+
+v0.4 Dodate nove klase P, S, L, T, D, K i promenjena tabla koja ce raditi na OnClick event.
